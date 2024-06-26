@@ -1,18 +1,19 @@
-## Getting Started
+# Conversor de monedas sencillo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Es un conversor de monedas consumiendo la api de ExchangeRate,
+la cual nos permite obtener la cotización de una moneda respecto a otra.
 
-## Folder Structure
+Decidí utilizar la api de ExchangeRate por su facilidad de uso y sobre 
+por la opcion de Pair Conversion Requests que permite obtener la conversión
+de manera sencilla solo haciendo una solicitud request.
 
-The workspace contains two folders by default, where:
+Uno de los problemas que me surgieron es la dificultad, aunque sencilla de 
+solucionar, de guardar el dato de la conversión pero lo solucione utilizando
+un @SelializeName("") de la libreria GSON.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Primero ingresaremos nuestra clave para utilizar la api.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![alt text](imageness/key.png)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
