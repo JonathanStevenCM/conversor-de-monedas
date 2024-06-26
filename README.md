@@ -15,5 +15,5 @@ un @SelializeName("") de la libreria GSON.
 
 Primero ingresaremos nuestra clave para utilizar la api.
 
-![alt text](imageness/key.png)
+![alt text](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/key.png)
 
