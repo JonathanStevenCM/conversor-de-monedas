@@ -18,7 +18,7 @@ public class Principal {
 
             // Formato de selección
             System.out.println("*************************************");
-            System.out.println("Ingresa la conversion que deseas");
+            System.out.println("Ingresa la conversion que deseas, seleccionado un numero del 1 al 6:");
             System.out.println("1. EUR a USD");
             System.out.println("2. AUD a USD");
             System.out.println("3. USD a GBP");
@@ -63,7 +63,7 @@ public class Principal {
 
             Scanner dinero = new Scanner(System.in);
 
-            System.out.println("Ingrese la cantidad de " + divisa1 + " que quieres convertir a " + divisa2);
+            System.out.println("Ingrese la cantidad de " + divisa1 + " que quieres convertir a " + divisa2 + " :");
             monto = dinero.nextDouble();
             
             // Clave para que funcione la api.
