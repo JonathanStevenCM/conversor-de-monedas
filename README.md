@@ -17,7 +17,7 @@ Uno de los problemas que me surgieron es la dificultad, aunque sencilla de
 solucionar, de guardar el dato de la conversión pero lo solucione utilizando
 un @SelializeName("") de la libreria GSON.
 
-##Índice
+## Índice
 
 *[Conversor de monedas sencillo](#Conversor-de-monedas-sencillo)
 
