@@ -1,4 +1,5 @@
 # Conversor de monedas sencillo
+![logoProyecto](https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d)
 
 Es un conversor de monedas consumiendo la api de ExchangeRate,
 la cual nos permite obtener la cotización de una moneda respecto a otra.
@@ -11,25 +12,25 @@ Uno de los problemas que me surgieron es la dificultad, aunque sencilla de
 solucionar, de guardar el dato de la conversión pero lo solucione utilizando
 un @SelializeName("") de la libreria GSON.
 
-## Uso
+## Como usar el programa
 
 Primero ingresaremos nuestra clave para utilizar la api en la antepenultima linea 
 de codigo.
 
-![alt text](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/key.png)
+![muestra de donde colocar la apikey](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/key.png)
 
 Despues ejecutaremos el codigo nos aparecerá unas lineas de codigo en la terminal
 selecciona un numero del 1 al 6.
-![alt text](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/seleccionarConversion.png)
+![Muestra de seleccionarpares](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/seleccionarConversion.png)
 
 Por ultimo agrega la cantidad de dinero que quieres convertir en la otra moneda.
 
-![alt text](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/cantidadAConvertir.png)
+![Muestra colocar cantidad a convertir](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/cantidadAConvertir.png)
 
 Y tatan!!!, devolverá conversion y se ejecutara otra vez el codigo, 
 hasta que selecciones el número 6 de salir.
 
-![alt text](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/muestraDelConversor.png)
+![Muestra del desarrollo](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/muestraDelConversor.png)
 
 ## Partes del codigo
 
