@@ -67,7 +67,7 @@ public class Principal {
             monto = dinero.nextDouble();
             
             // Clave para que funcione la api.
-            key = "1fc13da3e835cfcce43e7faa";
+            key = "Escribe tu clave de la Api ExchangeRate";
 
             // Metodo conversion del objeto Monedas llamado divisa
             divisa.conversion(divisa1, divisa2, monto, key);
