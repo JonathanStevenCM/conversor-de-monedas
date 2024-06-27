@@ -1,5 +1,5 @@
 # Conversor de monedas sencillo
-<img src="[dinosaur.jpg](https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d)" 
+<img src="https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d" 
     alt="logoProyecto" 
     width="400"
     height="400"/>
@@ -22,7 +22,7 @@ un @SelializeName("") de la libreria GSON.
 
 *[Índice](#índice)
 
-*[Funcionalidades del proyecto](#:hammer:Funcionalidades-del-proyecto)
+*[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 
 *[Como usar el programa](#Como-usar-el-programa)
 
