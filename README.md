@@ -1,8 +1,9 @@
 # Conversor de monedas sencillo
-<img src="https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d" 
+<center><img src="https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d" 
     alt="logoProyecto" 
     width="400"
-    height="400"/>
+    height="400"
+    ></center>
 
 
 Es un conversor de monedas consumiendo la api de ExchangeRate,
@@ -30,7 +31,8 @@ un @SelializeName("") de la libreria GSON.
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Conversion sencilla de diversas monedas mediante un metodo facil e intuitivo. - `Funcionalidad 2`: Facil de manejar y simple de comprender.
+- `Funcionalidad 1`: Conversion sencilla de diversas monedas mediante un metodo facil e intuitivo.
+- `Funcionalidad 2`: Facil de manejar y simple de comprender.
 
 ## Como usar el programa
 Primero importas o descargas el archivo mediante las opciones que tiene github
