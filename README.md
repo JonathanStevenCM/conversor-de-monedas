@@ -233,5 +233,5 @@ public class Monedas {
 
 ## Tecnologías
 
->java 17
->Gson library
+- java 17
+- Gson library
