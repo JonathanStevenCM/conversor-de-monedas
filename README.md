@@ -1,9 +1,9 @@
 # Conversor de monedas sencillo
-<center><img src="https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d" 
+<img src="https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d" 
     alt="logoProyecto" 
     width="400"
     height="400"
-    ></center>
+    align="center">
 
 
 Es un conversor de monedas consumiendo la api de ExchangeRate,
@@ -28,6 +28,8 @@ un @SelializeName("") de la libreria GSON.
 *[Como usar el programa](#Como-usar-el-programa)
 
 *[Partes del codigo](#Partes-del-codigo)
+
+*[Tecnologías](#Tecnologías)
 
 ## :hammer:Funcionalidades del proyecto
 
@@ -227,7 +229,7 @@ public class Monedas {
 
 ```
 
-##tecnologías
+##Tecnologías
 
 >java 17
 >Gson library
