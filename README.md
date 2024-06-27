@@ -19,17 +19,17 @@ un @SelializeName("") de la libreria GSON.
 
 ## Índice
 
-*[Conversor de monedas sencillo](#Conversor-de-monedas-sencillo)
+-[Conversor de monedas sencillo](#Conversor-de-monedas-sencillo)
 
-*[Índice](#índice)
+-[Índice](#índice)
 
-*[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
+-[Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 
-*[Como usar el programa](#Como-usar-el-programa)
+-[Como usar el programa](#Como-usar-el-programa)
 
-*[Partes del codigo](#Partes-del-codigo)
+-[Partes del codigo](#Partes-del-codigo)
 
-*[Tecnologías](#Tecnologías)
+-[Tecnologías](#Tecnologías)
 
 ## :hammer:Funcionalidades del proyecto
 
