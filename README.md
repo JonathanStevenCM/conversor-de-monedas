@@ -17,6 +17,8 @@ Uno de los problemas que me surgieron es la dificultad, aunque sencilla de
 solucionar, de guardar el dato de la conversión pero lo solucione utilizando
 un @SelializeName("") de la libreria GSON.
 
+Este es el proyecto final.
+
 ## Índice
 
 * [Conversor de monedas sencillo](#Conversor-de-monedas-sencillo)
@@ -229,7 +231,7 @@ public class Monedas {
 
 ```
 
-##Tecnologías
+## Tecnologías
 
 >java 17
 >Gson library
