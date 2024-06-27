@@ -1,5 +1,9 @@
 # Conversor de monedas sencillo
-![logoProyecto](https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d)
+<img src="[dinosaur.jpg](https://github.com/JonathanStevenCM/conversor-de-monedas/assets/74932904/2967a5c3-cd40-47d2-b188-466042206d3d)" 
+    alt="logoProyecto" 
+    width="400"
+    height="400"/>
+
 
 Es un conversor de monedas consumiendo la api de ExchangeRate,
 la cual nos permite obtener la cotización de una moneda respecto a otra.
@@ -12,9 +16,26 @@ Uno de los problemas que me surgieron es la dificultad, aunque sencilla de
 solucionar, de guardar el dato de la conversión pero lo solucione utilizando
 un @SelializeName("") de la libreria GSON.
 
-## Como usar el programa
+##Índice
 
-Primero ingresaremos nuestra clave para utilizar la api en la antepenultima linea 
+*[Conversor de monedas sencillo](#Conversor-de-monedas-sencillo)
+
+*[Índice](#índice)
+
+*[Funcionalidades del proyecto](#:hammer:Funcionalidades-del-proyecto)
+
+*[Como usar el programa](#Como-usar-el-programa)
+
+*[Partes del codigo](#Partes-del-codigo)
+
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Conversion sencilla de diversas monedas mediante un metodo facil e intuitivo. - `Funcionalidad 2`: Facil de manejar y simple de comprender.
+
+## Como usar el programa
+Primero importas o descargas el archivo mediante las opciones que tiene github
+
+Segundo ingresaremos nuestra clave para utilizar la api en la antepenultima linea 
 de codigo.
 
 ![muestra de donde colocar la apikey](https://github.com/JonathanStevenCM/conversor-de-monedas/blob/master/imagenes/key.png)
@@ -203,3 +224,8 @@ public class Monedas {
 
 
 ```
+
+##tecnologías
+
+>java 17
+>Gson library
